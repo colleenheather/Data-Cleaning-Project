@@ -1,5 +1,4 @@
-Notes: 
-
+-- MySQL
 -- General Clean Up
 
 DELIMITER //
